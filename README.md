@@ -6,4 +6,11 @@ office在线预览
 
 2.openoffice和librayoffice ，单文档转换，速度还未测试。
 
+目前测试只在普通硬盘测试，固态盘未测试。
+
+腾讯文档打开200页同样大小文档耗时大概20秒。
+
+
+
+
 3.weboffice365 需要Internet访问。
